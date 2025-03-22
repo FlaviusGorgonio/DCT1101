@@ -1,11 +1,14 @@
 # DCT1101 - Algoritmos e Lógica de Programação
 
 ## Universidade Federal do Rio Grande do Norte (UFRN)
+
 ### Centro de Ensino Superior do Seridó (CERES)
 ### Departamento de Computação e Tecnologia (DCT)
 ### Laboratório de Inteligência Computacional Aplicada à Negócios (LABICAN)
 
-Copyright by UFRN/DCT/LABICAN, developed by @flgorgonio, since Jan/2025
+#### Copyright by UFRN/DCT/LABICAN, developed by @flgorgonio, since Jan/2025
+
+####
 
 Repositório de programas exemplo, desenvolvidos com a linguagem Python, para utilização na disciplina DCT1101 - Algoritmos e Lógica de Programação do curso de Bacharelado em Sistemas de Informação. O repositório contém centenas de exemplos simples, com objetivo de apresentar os conceitos de lógica de programação, estruturas de decisão e repetição, estruturas de armazenamento de dados, funções e recursividade.
 
